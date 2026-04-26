@@ -84,3 +84,5 @@ Developed as a beginner Python project to practice:
 * CLI-based application design
 
 ---
+
+Video link: https://drive.google.com/file/d/1d7uqIjrYqbf8XUgo5TlLW85bAO5AuYNn/view?usp=sharing
